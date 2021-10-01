@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T00:54:26.956Z" agent="5.0 (Android 10)" version="15.3.8" etag="j5rgt5i8EdYzc0fT_yTZ" type="github"><diagram id="ifScoxPYQsQ3SOjYmCZe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T01:06:27.887Z" agent="5.0 (Android 10)" etag="VD0kSCC7Jc8AtENIpB8Q" version="15.3.8" type="github">
+  <diagram id="ifScoxPYQsQ3SOjYmCZe" name="Page-1">
+    <mxGraphModel dx="2008" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3hPcI8mBHhadJBkQZYBo-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="70" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="3hPcI8mBHhadJBkQZYBo-6" value="VPC" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="660" height="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
